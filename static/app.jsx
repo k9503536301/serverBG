@@ -6,7 +6,6 @@ const history = createBrowserHistory();
 
 
 import TenderPage from "./components/tender-page/TenderPage.jsx";
-// import Header from './components/Header.jsx';
 import Calculator from './components/Calculator.jsx';
 import TenderWinners from './components/tender-winners/TenderWinners.jsx';
 

@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { Link } from "react-router-dom";
 import {DatePickerInput} from 'rc-datepicker';
 
 import Button from '../Button.jsx';
